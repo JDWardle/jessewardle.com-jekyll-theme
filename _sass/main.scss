@@ -1,0 +1,24 @@
+$base-font-family: Verdana, Verdana, Geneva, sans-serif;
+$base-font-size: 11pt !default;
+
+// $text-color: $black-color;
+// $background-color: $black-color;
+
+// $white-background-link-color: $blue-color;
+// $white-background-link-color-highlight: darken($blue-color, 25%);
+
+// $dark-background-link-color: $lighter-grey-color;
+// $dark-background-highlight-link-color: $darker-grey-color;
+
+// $post-title-text-color: $blue-color;
+// $post-title-subtext-color: $black-color;
+// $post-text-color: $black-color;
+
+$black-color: #424242;
+$blue-color: #3299bb;
+$orange-color: #ff9900;
+// $border-color: #000;
+$lighter-grey-color: #e9e9e9;
+$darker-grey-color: #bcbcbc;
+
+@import "base";
